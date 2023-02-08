@@ -1,0 +1,53 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1cf9054f_002D129b_002D4f43_002Da89c_002D6810b1a67ec9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OverLappingBookingsExist_BookingIsCancelled_ReturnEmptyString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingIsCancelled_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingStartsBeforeAndFinishesInTheMiddle_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.HouseKeeperHelperTests.SendStatementEmails_WhenCalled_GenerateStatements&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.HouseKeeperHelperTests.SendStatementEmails_HouseKeepersEmailIsWhiteSpace_ShouldNotGenerateStatement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.HouseKeeperHelperTests.SendStatementEmails_HouseKeepersEmailIsNull_ShouldNotGenerateStatement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.HouseKeeperHelperTests.SendStatementEmails_WhenCalled_EmailTheStatement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.HouseKeeperHelperTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e7b563f_002Dbc01_002D4259_002D9ca5_002Df40ac771cedb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::06AF992D-5F54-4F0C-A565-4E75230F6267::net7.0::MSUNITTEST.ReservationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.ReservationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Add_WhenCalled_ReturnTheSumOfArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Add_WhenCalled_ReturnTheHighestNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Add_FirstArgumentIsHigher_ReturnTheHighestNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Add_SecondArgumentIsHigher_ReturnTheHighestNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Add_ArgumentsAreEqual_ReturnTheSameNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.Max_WhenCalled_ReturnTheGreaterArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.MathTests.GetOddNumbers_LimitIsGreaterThanZero_ReturnOddNumbersUpToLimit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.FizzBuzzTests.GetOutPut_ArgumentNotDividedBy3and5_ReturnsSameNumberInString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.FizzBuzzTests.GetOutPut_FirstArgumentDivided_ReturnsRightResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.DemeritPointsCalculatorTests.CalculateDemeritPoints_ArgumentLessThan0_ReturnOutOfRangeException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.DemeritPointsCalculatorTests.CalculateDemeritPoints_ArgumentLessThanSpeedLimit_ReturnZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.DemeritPointsCalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester.Push_ArgumentIsAnObject_ReturnAddictionOfObjectToStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester.Pop_ArgumentIsNull_ReturnInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester.Pop_RemoveObjFromStack_ReturnStackWithOneLessObj&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester.Peek_StackIsEmpty_ReturnInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester.Peek_WhenUsed_ReturnFirstObjOfStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.StackTester&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.VideoServiceTests.GetUnprocessedVideosAsCsv_ArgumentIsEmpty_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.VideoServiceTests.GetUnprocessedVideosAsCsv_ArgumentContainsValues_ReturnAllIds&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.InstallerHelperTests.DwonloadInstaller_ArgumentsIsEmpty_ReturnFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.InstallerHelperTests.DwonloadInstaller_DwonloadFails_ReturnFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.InstallerHelperTests.DwonloadInstaller_DwonloadCompletes_ReturnTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.EmployeeStorageTest.DeleteEmployee_WhenUser_RedirectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingStartsAndFinishesBeforeAnExistingBooking_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingIsCancelled_ReturnEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingStartsBeforeAndFinishesInTheMiddle_ReturnEmptyString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91efa844_002D0be0_002D48f6_002D915b_002Dacadaaac35f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OverLappingBookingsExist_BookingStartsBeforeAndFinishesInTheMiddle_ReturnEmptyString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6::net7.0::NUNITTEST.Mocking.BookingHelperTests.OverLappingBookingsExist_BookingStartsBeforeAndFinishesInTheMiddle_ReturnEmptyString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

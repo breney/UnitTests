@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja", "TestNinja\TestNinja.csproj", "{0C8D9615-8402-4117-B839-F42FC10A0DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSUNITTEST", "MSUNITTEST\MSUNITTEST.csproj", "{06AF992D-5F54-4F0C-A565-4E75230F6267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUNITTEST", "NUNITTEST\NUNITTEST.csproj", "{E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8D9615-8402-4117-B839-F42FC10A0DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8D9615-8402-4117-B839-F42FC10A0DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8D9615-8402-4117-B839-F42FC10A0DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8D9615-8402-4117-B839-F42FC10A0DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AF992D-5F54-4F0C-A565-4E75230F6267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AF992D-5F54-4F0C-A565-4E75230F6267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AF992D-5F54-4F0C-A565-4E75230F6267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AF992D-5F54-4F0C-A565-4E75230F6267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D1D91D-3FA0-4B5C-91CA-DD617DD2ADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
